@@ -1,5 +1,7 @@
 # FirebasePhoneAuth
 
+Project created based on tutorial https://angularfirebase.com/lessons/firebase-phone-authentication-with-angular-4-tutorial/.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
 ## Development server
